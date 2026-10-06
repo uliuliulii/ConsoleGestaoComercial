@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGestaoComercial", "src\ConsoleGestaoComercial\ConsoleGestaoComercial.csproj", "{D5987376-160B-4524-95DC-0453F0CD65D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGestaoComercial.Tests", "tests\ConsoleGestaoComercial.Tests\ConsoleGestaoComercial.Tests.csproj", "{982F1580-55C5-4493-B027-94512213A232}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {D5987376-160B-4524-95DC-0453F0CD65D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {D5987376-160B-4524-95DC-0453F0CD65D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {D5987376-160B-4524-95DC-0453F0CD65D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {D5987376-160B-4524-95DC-0453F0CD65D1}.Release|Any CPU.Build.0 = Release|Any CPU
+        {982F1580-55C5-4493-B027-94512213A232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {982F1580-55C5-4493-B027-94512213A232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {982F1580-55C5-4493-B027-94512213A232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {982F1580-55C5-4493-B027-94512213A232}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+Aplicação console em C#/.NET 10 para gestão comercial, com comissões de vendas, movimentação de estoque e cálculo de juros.
