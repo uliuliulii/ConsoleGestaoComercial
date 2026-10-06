@@ -1,4 +1,4 @@
-# Sales Stock Finance
+# Console de Gestão Comercial
 
 Aplicação console em **C# / .NET 10** para gestão de operações comerciais, reunindo três módulos principais: **comissões de vendas**, **movimentação de estoque** e **cálculo de juros por atraso**.
 
@@ -149,10 +149,6 @@ Os dados de vendas e estoque ficam em arquivos na pasta `Data`, evitando que os 
 
 O `global.json` fixa o projeto no SDK .NET 10 estável, evitando uso acidental de versões preview instaladas na máquina.
 
-## Origem do projeto
-
-Este projeto foi desenvolvido inicialmente a partir de um desafio técnico e posteriormente aprimorado e organizado como projeto de portfólio.
-
-## Autor
+## Autora
 
 Projeto desenvolvido para estudo, portfólio e demonstração de conhecimentos em C# e .NET.
